@@ -50,4 +50,4 @@ Name: Lee
 1. Write `def first_and_rest(head, *tail):` that prints `head` and the length of `tail`. Call with several numbers.
 2. Write `def merge_defaults(**opts):` that returns a dict starting with `{"theme": "light"}` updated with anything passed in `opts` (hint: copy then update, or build a new dict).
 
-Continue with `scope.md`.
+Continue with `06-scope.md`.

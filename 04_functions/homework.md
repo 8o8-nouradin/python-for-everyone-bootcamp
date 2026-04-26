@@ -1,23 +1,23 @@
 # Homework — Section 4: Functions and Modules
 
-Complete these tasks after you finish **all** lessons in this section (`functions.md` through `scope.md`). The assignments follow the lesson order.
+Complete these tasks after you finish **all** lessons in this section (`01-functions.md` through `06-scope.md`). The assignments follow the lesson order.
 
 Submit according to your instructor's format (files, screenshots, or a short write-up).
 
 | Assignment | Main lesson file |
 |------------|------------------|
-| 1 - Build and call functions | `functions.md` |
-| 2 - Parameters vs arguments | `parameters.md` |
-| 3 - Return values | `return-values.md` |
-| 4 - Default arguments | `default-arguments.md` |
-| 5 - `*args` and `**kwargs` | `args-and-kwargs.md` |
-| 6 - Scope practice | `scope.md` |
+| 1 - Build and call functions | `01-functions.md` |
+| 2 - Parameters vs arguments | `02-parameters.md` |
+| 3 - Return values | `03-return-values.md` |
+| 4 - Default arguments | `04-default-arguments.md` |
+| 5 - `*args` and `**kwargs` | `05-args-and-kwargs.md` |
+| 6 - Scope practice | `06-scope.md` |
 
 ---
 
 ## Assignment 1: Build and call functions
 
-**Lesson:** `functions.md`
+**Lesson:** `01-functions.md`
 
 Create `greetings.py` that:
 
@@ -31,7 +31,7 @@ Create `greetings.py` that:
 
 ## Assignment 2: Parameters vs arguments
 
-**Lesson:** `parameters.md`
+**Lesson:** `02-parameters.md`
 
 Create `calculator_calls.py` that:
 
@@ -48,7 +48,7 @@ Add one short comment in the file explaining the difference between **parameters
 
 ## Assignment 3: Return values
 
-**Lesson:** `return-values.md`
+**Lesson:** `03-return-values.md`
 
 Create `grade_tools.py` that:
 
@@ -62,7 +62,7 @@ Create `grade_tools.py` that:
 
 ## Assignment 4: Default arguments
 
-**Lesson:** `default-arguments.md`
+**Lesson:** `04-default-arguments.md`
 
 Create `messages.py` that:
 
@@ -78,7 +78,7 @@ Create `messages.py` that:
 
 ## Assignment 5: Flexible arguments (`*args`, `**kwargs`)
 
-**Lesson:** `args-and-kwargs.md`
+**Lesson:** `05-args-and-kwargs.md`
 
 Create `flexible_report.py` that includes:
 
@@ -93,7 +93,7 @@ Create `flexible_report.py` that includes:
 
 ## Assignment 6: Scope practice
 
-**Lesson:** `scope.md`
+**Lesson:** `06-scope.md`
 
 Create `scope_demo.py` that:
 

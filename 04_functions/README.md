@@ -17,12 +17,12 @@ By the end of this section, you will be able to:
 
 | Order | Topic | File |
 |------:|-------|------|
-| 1 | Functions | `functions.md` |
-| 2 | Parameters | `parameters.md` |
-| 3 | Return values | `return-values.md` |
-| 4 | Default arguments | `default-arguments.md` |
-| 5 | `*args` and `**kwargs` | `args-and-kwargs.md` |
-| 6 | Scope | `scope.md` |
+| 1 | Functions | `01-functions.md` |
+| 2 | Parameters | `02-parameters.md` |
+| 3 | Return values | `03-return-values.md` |
+| 4 | Default arguments | `04-default-arguments.md` |
+| 5 | `*args` and `**kwargs` | `05-args-and-kwargs.md` |
+| 6 | Scope | `06-scope.md` |
 
 Work through the lessons in order. Each lesson ends with a small practice task. After the section, complete the assignments in `homework.md`.
 
@@ -30,4 +30,4 @@ Work through the lessons in order. Each lesson ends with a small practice task. 
 
 Sections 1–3: variables, control flow, collections.
 
-Start with `functions.md`.
+Start with `01-functions.md`.

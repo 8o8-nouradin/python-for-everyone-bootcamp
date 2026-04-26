@@ -49,4 +49,4 @@ go go go
 1. Write `def divider(a, b=1):` that returns `a / b`. Call it with one argument and with two.
 2. Explain why `def bad(x, items=[])` can surprise you; then write a **safe** version using `items=None`.
 
-Continue with `args-and-kwargs.md`.
+Continue with `05-args-and-kwargs.md`.

@@ -64,4 +64,4 @@ Run and explain **two** `total`s.
 
 2. Refactor a script that uses `global` to avoid globals by **returning** the new value instead (conceptual exercise).
 
-Continue with `imports.md`.
+Continue with `homework.md`.

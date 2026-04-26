@@ -46,4 +46,4 @@ Hello, Sam
 2. Write `def shout(text):` that prints `text` in uppercase (hint: `.upper()`). Call it with your name.
 3. Explain in one sentence: what is the difference between **defining** and **calling** a function?
 
-Continue with `parameters.md`.
+Continue with `02-parameters.md`.

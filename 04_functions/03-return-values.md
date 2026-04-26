@@ -48,4 +48,4 @@ print(stats(3, 4))
 2. Write `def max_of_two(a, b):` that returns the larger value (no `max()`—use `if` for practice).
 3. Call `stats(3, 4)`, assign to two variables with unpacking, and print them.
 
-Continue with `default-arguments.md`.
+Continue with `04-default-arguments.md`.

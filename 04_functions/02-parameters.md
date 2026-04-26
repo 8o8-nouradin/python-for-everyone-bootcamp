@@ -38,4 +38,4 @@ print(power(exponent=3, base=2))
 1. Write `def introduce(first, last):` that prints `first` and `last` on one line. Call it **positionally** and again with **keywords**.
 2. What happens if you call `introduce(last="Lovelace", first="Ada")`? Predict, then run.
 
-Continue with `return-values.md`.
+Continue with `03-return-values.md`.
